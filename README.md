@@ -13,4 +13,7 @@ Wrocław University of Technology
 
 Output files are obtained using https://github.com/Aknilam/metrics-in-boa-java-client software which uses [Boa](https://github.com/boalang) system.
 
-Each file name contains Boa's dataset ID and list of estimated metrics in file.
+Each file name contains Boa's dataset ID and list of estimated metrics included in file.
+
+<br>
+If you're wondering why we don't store data toegether with software, it's only because we want to save your disk space.
