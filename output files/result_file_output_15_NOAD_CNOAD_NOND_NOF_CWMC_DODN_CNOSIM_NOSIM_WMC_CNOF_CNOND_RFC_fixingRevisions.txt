@@ -1,0 +1,13 @@
+=== Setup ===
+Classifier: weka.classifiers.trees.RandomForest-I 200 -K 12 -S 1 -depth 12 -num-slots 1
+Dataset: output
+Folds: 10
+Seed: 1
+
+=== 10-fold Cross-validation ===
+Correlation coefficient                  0.2146
+Mean absolute error                      2.1624
+Root mean squared error                  9.9574
+Relative absolute error                101.9894 %
+Root relative squared error            100.0051 %
+Total Number of Instances            22556     
